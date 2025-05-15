@@ -1,4 +1,4 @@
-# Vanilla Javascript
+# Simple projects
 
 Small projects using vanilla HTML, CSS and Javascript with minimal 3rd-party libraries.
 
